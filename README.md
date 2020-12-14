@@ -1,0 +1,6 @@
+# text_calc
+simple calc with 4 basic operations(2 inputs)...
+
+Its a simple calc operations program...
+choose the option and enter operands..
+YOU WILL GET IT.
